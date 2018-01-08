@@ -1,0 +1,3 @@
+/home/seba/repos/xmrig-amd/build/CMakeFiles/edit_cache.dir
+/home/seba/repos/xmrig-amd/build/CMakeFiles/rebuild_cache.dir
+/home/seba/repos/xmrig-amd/build/CMakeFiles/xmrig-amd.dir

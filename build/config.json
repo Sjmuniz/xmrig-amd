@@ -1,0 +1,34 @@
+{
+    "algo": "cryptonight",
+    "background": false,
+    "colors": true,
+    "donate-level": 1,
+    "log-file": null,
+    "print-time": 360,
+    "retries": 5,
+    "retry-pause": 5,
+    "syslog": true,
+    "opencl-platform": 0,
+    "threads": [
+        {
+            "index": 0,
+            "intensity": 600,
+            "worksize": 8,
+            "affine_to_cpu": false
+        }
+    ],
+    "pools": [
+        {
+            "url": "pool.monero.hashvault.pro:5555",
+            "user": "4Ao2w7yY3TceF4uexxbnaVAacmEZtxXbD82nMS6XVvWbgVLLvqJkjBYTNFzcaph6mQENAqHNrHsrFTJbjk7D6SYxNYbE96W",
+            "pass": "x",
+            "keepalive": true,
+            "nicehash": false
+        }
+    ],
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null
+    }
+}

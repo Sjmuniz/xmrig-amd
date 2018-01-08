@@ -1,0 +1,34 @@
+{
+    "algo": "cryptonight",
+    "background": false,
+    "colors": true,
+    "donate-level": 1,
+    "log-file": null,
+    "print-time": 360,
+    "retries": 5,
+    "retry-pause": 5,
+    "syslog": true,
+    "opencl-platform": 0,
+    "threads": [
+        {
+            "index": 0,
+            "intensity": 600,
+            "worksize": 8,
+            "affine_to_cpu": false
+        }
+    ],
+    "pools": [
+        {
+            "url": "pool.sumokoin.hashvault.pro:5555",
+            "user": "Sumoo116wQAAdSQTXQvvRa8Ktvb7yo7cZE49a8mYMguj7UV4YGVWSTjQbLuUMyUb8Z6i3QXbya4jFJT7wZ64CMXZhaw5gDYaYpj",
+            "pass": "x",
+            "keepalive": true,
+            "nicehash": false
+        }
+    ],
+    "api": {
+        "port": 0,
+        "access-token": null,
+        "worker-id": null
+    }
+}
